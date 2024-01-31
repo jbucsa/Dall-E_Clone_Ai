@@ -1,6 +1,6 @@
 # Welcome to my Ai image generator project.
 
-Adding additional NPM's to the project:
+NPMs for the Client Side of the project
 
 ```bash
 
