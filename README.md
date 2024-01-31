@@ -17,3 +17,14 @@ NPMs for the Client Side of the project
  npm install react-router-dom
 
 ```
+
+
+NPMs for the Server Side of the project
+
+```bash
+
+ npm init -y
+
+ npm install cloudinary cors dotenv mongoose nodemon openai
+
+```
