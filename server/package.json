@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "-": "^0.0.1",
+    "@babel/node": "^7.23.9",
     "cloudinary": "^2.0.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.1",

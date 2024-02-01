@@ -27,4 +27,7 @@ NPMs for the Server Side of the project
 
  npm install cloudinary cors dotenv mongoose nodemon openai
 
+ npm install mongodb
+
+
 ```
