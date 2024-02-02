@@ -7,6 +7,7 @@ import { FormField, Loader } from '../components';
 
 
 
+
 const CreatePost = () => {
   const navigate = useNavigate();
 
@@ -35,6 +36,7 @@ const CreatePost = () => {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
+            // 'Authorization': 'Bearer YOUR_OPENAI_API_KEY'
           },
           body: JSON.stringify({ prompt: form.prompt }),
         })
