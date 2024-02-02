@@ -1,5 +1,14 @@
 # Welcome to my Ai image generator project.
 
+## Hosting Serve - Front-End
+
+The Front-End of the website is hosted on Render.
+    
+## Hosting Serve - Back-End
+   
+The Back-End of the website is hosted on Hostinger.
+
+
 ## Cloud
 
 The website is host on the cloud thanks to Cloudinary.
