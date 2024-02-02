@@ -1,6 +1,10 @@
 # Welcome to my Ai image generator project.
 
-NPMs for the Client Side of the project
+## Cloud
+
+The website is host on the cloud thanks to Cloudinary.
+
+## NPMs for the Client Side of the project
 
 ```bash
 
