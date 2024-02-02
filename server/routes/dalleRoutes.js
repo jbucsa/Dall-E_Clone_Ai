@@ -26,8 +26,11 @@ router.route('/').post(async (req, res) =>{
             response_format: 'b64_json',
         })
 
-        const image = aiResponse.data.data[0].b64_json;
-        res.status(200).json({ photo: image });
+        const image = aiResponse.data.b64_json;
+        // const image = aiResponse.data[0].b64_json;
+        // const image = aiResponse.data.data[0].b64_json;
+        res.status(200).json({ photo: 'data:image/jpeg;base64,' + image });
+        // res.status(200).json({ photo: image });
     } catch (error){
         console.log(error);
         res.status(500).send(error?.response.data.error.message || 'Something went wrong');
