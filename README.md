@@ -1,5 +1,16 @@
 # Welcome to my Ai image generator project.
 
+Homepage  
+![Homepage](misc/Homepage.jpg)
+
+   
+
+Create Post page    
+![Create Post](misc/CreatePostPage.jpg)
+
+
+
+
 ## Hosting Serve - Back-End
 
 The Back-End of the website is hosted on Render.
