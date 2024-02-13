@@ -1,11 +1,16 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
 # Welcome to my Ai image generator project.
 
-Homepage  
+### Homepage 
+     
 ![Homepage](misc/Homepage.jpg)
 
    
 
-Create Post page    
+### Create Post page    
+    
 ![Create Post](misc/CreatePostPage.jpg)
 
 
@@ -52,5 +57,9 @@ NPMs for the Server Side of the project
 
  npm install mongodb
 
-
 ```
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/justin-bucsa
